@@ -4,4 +4,4 @@ Yash Vardhan
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
 Activity 1:
-![image](https://user-images.githubusercontent.com/59708439/195763315-c366e7ea-05a6-48e5-bb78-f6e36815ceda.png)
+![image](https://user-images.githubusercontent.com/59708439/195771160-aa386d1e-a716-45f7-b66c-8db0629ebe1c.png)
