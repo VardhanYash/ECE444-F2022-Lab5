@@ -10,10 +10,7 @@ h1, h3 {
 
 .common-page-heading-container {
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto;
 }
 
 .common-page-form select, .common-page-form input {
