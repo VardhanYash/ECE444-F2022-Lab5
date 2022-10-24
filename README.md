@@ -27,3 +27,8 @@ User Story #2:
 
 ![image](https://user-images.githubusercontent.com/59708439/197450984-1fcb72bb-4a9a-4f3b-b391-058b27007ce2.png)
 ![image](https://user-images.githubusercontent.com/59708439/197451042-532274c2-4764-4425-8d56-eebd3edf1ef3.png)
+
+User Story #3:
+
+![image](https://user-images.githubusercontent.com/59708439/197620954-2bd82b79-aa7f-4702-bba5-be2ce6c24d14.png)
+![image](https://user-images.githubusercontent.com/59708439/197620545-8651b748-133b-4c73-ae0c-5b6c2810f0f7.png)
